@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arka Pravo Dutta</h1>
 <h3 align="center">An aspiring Data Scientist / Software Engineer</h3>
 
-<ima align= "right" alt = "data science" width = "400" src = "https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif?cid=ecf05e47j141p8v0ymziev2mz1ag9exa1eehhqc8hvof8ftu&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<ima align= "right" alt = "data science" width = "400" src = "[https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif?cid=ecf05e47j141p8v0ymziev2mz1ag9exa1eehhqc8hvof8ftu&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif?cid=ecf05e47j141p8v0ymziev2mz1ag9exa1eehhqc8hvof8ftu&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkafreak&label=Profile%20views&color=0e75b6&style=flat" alt="arkafreak" /> </p>
 
