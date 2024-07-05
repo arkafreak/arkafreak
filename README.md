@@ -1,3 +1,4 @@
+![logo](https://github.com/arkafreak/arkafreak/blob/main/data%20science.gif)
 <h1 align="center">Hi 👋, I'm Arka Pravo Dutta</h1>
 <h3 align="center">An aspiring Data Scientist / Software Engineer</h3>
 <img align="right" alt="data science" width="400" src="https://github.com/arkafreak/arkafreak/blob/main/giphy.gif">
