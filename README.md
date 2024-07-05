@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arka Pravo Dutta</h1>
 <h3 align="center">An aspiring Data Scientist / Software Engineer</h3>
-
-<ima align= "right" alt = "data science" width = "400" src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgzZG1oNHl4ZDE2Z3l1d2Q1dDlua2lqZmc5emIzMHQ3dnZmMTR5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYc2axjCJNsCXyE/giphy.gif">
-
+<img align="right" alt="data science" width="400" src="https://github.com/arkafreak/arkafreak/blob/main/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkafreak&label=Profile%20views&color=0e75b6&style=flat" alt="arkafreak" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkafreak" alt="arkafreak" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/behziniger" target="blank"><img src="https://img.shields.io/twitter/follow/behziniger?logo=twitter&style=for-the-badge" alt="behziniger" /></a> </p>
 
@@ -28,8 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/behziniger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="behziniger" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/arka-pravo-dutta-359200215/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arka Pravo Dutta LinkedIn Profile" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/arka-pravo-dutta-359200215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arka-pravo-dutta-359200215" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22373470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22373470" height="30" width="40" /></a>
 <a href="https://kaggle.com/arkapravodutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arkapravodutta" height="30" width="40" /></a>
 <a href="https://fb.com/xoroxeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xoroxeo" height="30" width="40" /></a>
@@ -53,5 +48,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkafreak&show_icons=true&locale=en&layout=compact" alt="arkafreak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkafreak&show_icons=true&locale=en" alt="arkafreak" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkafreak&" alt="arkafreak" /></p>
